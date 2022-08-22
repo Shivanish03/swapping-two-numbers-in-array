@@ -4,7 +4,7 @@
 
 int main()
 {
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
+    printf("\n\n\t\tc bacics\n\n\n");
 
     int a, b;
     int *ptra, *ptrb;
